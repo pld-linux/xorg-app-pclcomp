@@ -1,5 +1,5 @@
 Summary:	pclcomp application
-Summary(pl.UTF-8):   Aplikacja pclcomp
+Summary(pl.UTF-8):	Aplikacja pclcomp
 Name:		xorg-app-pclcomp
 Version:	0.99.2
 Release:	0.1
