@@ -1,5 +1,5 @@
 Summary:	pclcomp application
-Summary(pl):	Aplikacja pclcomp
+Summary(pl.UTF-8):   Aplikacja pclcomp
 Name:		xorg-app-pclcomp
 Version:	0.99.2
 Release:	0.1
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 pclcomp application.
 
-%description -l pl
+%description -l pl.UTF-8
 Aplikacja pclcomp.
 
 %prep
